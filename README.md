@@ -30,7 +30,7 @@
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/shoxrux-sayidov-b3ba12386" target="_blank">
-      <img width="30px" src="https://pngimg.com/d/linkedIn_PNG26.png">
+      <img width="30px" src="https://pngimg.com/d/linkedIn_PNG32.png">
     </a>
 </p>
 <p align="center">⭐️ From <a href="https://github.com/anonim-404-art">anonim-404-art</a></p>
