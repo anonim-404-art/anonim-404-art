@@ -8,11 +8,10 @@
 
 ---
 
-### 🔧 Tech Stack
 <p>
   • Python <br>
   • Flask <br>
-  • MySQL / SQLite <br>
+  • postgreSQL <br>
   • Git & GitHub
 </p>
 
