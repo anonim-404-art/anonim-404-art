@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shakhrukh 👋</h1>
 
-<!--
-**anonim-404-art/anonim-404-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Foundation Student in Computer Science at University of Southampton Malaysia <br>
+  💻 Focused on <b>Backend Development</b> (Flask, Python, SQL) <br>
+  🚀 Exploring AI, Machine Learning, and Web Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+<p>
+  • Python <br>
+  • Flask <br>
+  • MySQL / SQLite <br>
+  • Git & GitHub
+</p>
+
+---
+
+### 📌 Project
+- [Onlineshop](https://github.com/anonim-404-art/onlineshop) – Flask-based gadget shop (backend developed by me)
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/anonim-404-art">anonim-404-art</a></p>
