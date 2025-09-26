@@ -21,5 +21,5 @@
 - [Onlineshop](https://github.com/anonim-404-art/onlineshop) – Flask-based gadget shop (backend developed by me)
 
 ---
-
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">/img<> <a href="https://github.com/anonim-404-art">My Instagram</a></p>
 <p align="center">⭐️ From <a href="https://github.com/anonim-404-art">anonim-404-art</a></p>
