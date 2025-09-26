@@ -11,6 +11,7 @@
 <p>
   • Python <br>
   • Flask <br>
+  • JavaScript <br>
   • postgreSQL <br>
   • Git & GitHub
 </p>
@@ -21,5 +22,9 @@
 - [Onlineshop](https://github.com/anonim-404-art/onlineshop) – Flask-based gadget shop (backend developed by me)
 
 ---
-<p align="center"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></img></p> <a href="https://github.com/anonim-404-art">My Instagram</a></p>
+<p align="center">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
+  </a>
+</p>
 <p align="center">⭐️ From <a href="https://github.com/anonim-404-art">anonim-404-art</a></p>
