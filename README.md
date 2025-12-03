@@ -14,6 +14,7 @@
   • JavaScript <br>
   • postgreSQL <br>
   • Git & GitHub
+  • Tailwind
 </p>
 
 ---
