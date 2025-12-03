@@ -13,7 +13,7 @@
   • Flask <br>
   • JavaScript <br>
   • postgreSQL <br>
-  • Git & GitHub
+  • Git & GitHub <br>
   • Tailwind
 </p>
 
