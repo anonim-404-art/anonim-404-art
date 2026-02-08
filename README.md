@@ -18,11 +18,6 @@
 </p>
 
 ---
-
-### 📌 Project
-- [Onlineshop](https://github.com/anonim-404-art/onlineshop) – Flask-based gadget shop (backend developed by me)
-
----
 <p align="center">
   <a href="https://www.instagram.com/lts.shokh" target="blank">
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
